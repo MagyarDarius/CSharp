@@ -1,0 +1,8 @@
+D:\C#\1. Óra\MITTUDOMEN\MITTUDOMEN\bin\Debug\MITTUDOMEN.exe.config
+D:\C#\1. Óra\MITTUDOMEN\MITTUDOMEN\bin\Debug\MITTUDOMEN.exe
+D:\C#\1. Óra\MITTUDOMEN\MITTUDOMEN\bin\Debug\MITTUDOMEN.pdb
+D:\C#\1. Óra\MITTUDOMEN\MITTUDOMEN\obj\Debug\MITTUDOMEN.csproj.AssemblyReference.cache
+D:\C#\1. Óra\MITTUDOMEN\MITTUDOMEN\obj\Debug\MITTUDOMEN.csproj.CoreCompileInputs.cache
+D:\C#\1. Óra\MITTUDOMEN\MITTUDOMEN\obj\Debug\MITTUDOMEN.exe
+D:\C#\1. Óra\MITTUDOMEN\MITTUDOMEN\obj\Debug\MITTUDOMEN.pdb
+D:\C#\1. Óra\MITTUDOMEN\MITTUDOMEN\obj\Debug\MITTUDOMEN.exe.config
