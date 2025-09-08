@@ -31,6 +31,8 @@ namespace MITTUDOMEN
             {
                 Console.WriteLine(product);
             }
+            PrintMaxMinPrices(products);
+            SumPrices(products);
         }
 
         static List<termek> ProcessCsvData()
@@ -65,6 +67,45 @@ namespace MITTUDOMEN
             }
 
             return products;
+        }
+        static void PrintMaxMinPrices(List<termek> products)
+        {
+            if (products.Count == 0)
+            {
+                Console.WriteLine("Nincs termék az adatok között.");
+                return;
+            }
+
+            termek maxPriceProduct = products[0];
+            termek minPriceProduct = products[0];
+
+            foreach (var product in products)
+            {
+                if (product.Ar > maxPriceProduct.Ar)
+                {
+                    maxPriceProduct = product;
+                }
+                if (product.Ar < minPriceProduct.Ar)
+                {
+                    minPriceProduct = product;
+                }
+            }
+
+            Console.WriteLine();
+            Console.WriteLine($"Legdrágább termék: {maxPriceProduct}");
+            Console.WriteLine($"Legolcsóbb termék: {minPriceProduct}");
+        }
+        static void SumPrices(List<termek> products)
+        {
+            int total = 0;
+
+            foreach (var product in products)
+            {
+                total += product.Ar;
+            }
+
+            Console.WriteLine();
+            Console.WriteLine($"Összes termék ára: {total} Ft");
         }
     }
 }
