@@ -1,0 +1,8 @@
+D:\C#\CSharp\2.óra\szallas\szallas\bin\Debug\szallas.exe.config
+D:\C#\CSharp\2.óra\szallas\szallas\bin\Debug\szallas.exe
+D:\C#\CSharp\2.óra\szallas\szallas\bin\Debug\szallas.pdb
+D:\C#\CSharp\2.óra\szallas\szallas\obj\Debug\szallas.csproj.AssemblyReference.cache
+D:\C#\CSharp\2.óra\szallas\szallas\obj\Debug\szallas.csproj.CoreCompileInputs.cache
+D:\C#\CSharp\2.óra\szallas\szallas\obj\Debug\szallas.exe
+D:\C#\CSharp\2.óra\szallas\szallas\obj\Debug\szallas.pdb
+D:\C#\CSharp\2.óra\szallas\szallas\obj\Debug\szallas.exe.config
