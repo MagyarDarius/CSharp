@@ -1,0 +1,7 @@
+D:\C#\CSharp\burkolás\burkolo_con\obj\Debug\burkolo_con.csproj.AssemblyReference.cache
+D:\C#\CSharp\burkolás\burkolo_con\obj\Debug\burkolo_con.csproj.CoreCompileInputs.cache
+D:\C#\CSharp\burkolás\burkolo_con\bin\Debug\burkolo_con.exe.config
+D:\C#\CSharp\burkolás\burkolo_con\bin\Debug\burkolo_con.exe
+D:\C#\CSharp\burkolás\burkolo_con\bin\Debug\burkolo_con.pdb
+D:\C#\CSharp\burkolás\burkolo_con\obj\Debug\burkolo_con.exe
+D:\C#\CSharp\burkolás\burkolo_con\obj\Debug\burkolo_con.pdb

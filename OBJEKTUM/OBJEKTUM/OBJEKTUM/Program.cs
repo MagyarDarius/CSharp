@@ -21,19 +21,17 @@ namespace OBJEKTUM
             Console.WriteLine($"{ubul.name} Kutya {ubul.age} Éves");
             bodri.bark();
             ubul.eat();
-            Car car = new Car();
-            car.Brand = "Mercedes-Benz";
-            car.Plate = "JPG-387";
-            car.Year = 2000;
-            car.Speed = 260;
-            car.FuelConsumption = 6.4;
-            Console.WriteLine($"A kocsi márkája: {car.Brand}, Rendszáma: {car.Plate}, Gyártási éve: {car.Year}, Végsebessége: {car.Speed} km/h, Fogyasztása: {car.FuelConsumption} l/100km");
+            Car mercedes = new Car();
+            mercedes.Brand = "Mercedes-Benz";
+            mercedes.Plate = "JPG-387";
+            mercedes.Year = 2000;
+            mercedes.Speed = 260;
+            mercedes.FuelConsumption = 6.4;
+            Console.WriteLine($"A kocsi márkája: {mercedes.Brand}, Rendszáma: {mercedes.Plate}, Gyártási éve: {mercedes.Year}, Végsebessége: {mercedes.Speed} km/h, Fogyasztása: {mercedes.FuelConsumption} l/100km");
             Console.WriteLine("Add meg a megtett távolságot km-ben:");
             int Dis = int.Parse(Console.ReadLine());
-            car.Distance(Dis);
-            Console.WriteLine("Add meg az időt percben:");
-            int time = int.Parse(Console.ReadLine());
-            car.Speeddistance(time);
+            mercedes.Distance(Dis);
+            mercedes.TimeDistance(Dis);
             Console.ReadKey();
         }
     }
@@ -71,9 +69,13 @@ namespace OBJEKTUM
             double fuelNeeded = (FuelConsumption / 100) * distance;
             Console.WriteLine($"A megtett távolság: {distance} km, Szükséges üzemanyag: {fuelNeeded} l");
         }
-        public void SpeedDistance(int time)
+        public void TimeDistance(int distance)
         {
-            double fuelUsed = 
+            double hours = (double)distance / Speed;
+
+            TimeSpan travelTime = TimeSpan.FromHours(hours);
+
+            Console.WriteLine($"Max sebességen az út megtétele: {travelTime.Hours} óra {travelTime.Minutes} perc {travelTime.Seconds} másodperc");
         }
     }
 }
