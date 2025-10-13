@@ -5,3 +5,4 @@ D:\C#\CSharp\burkolás\burkolo_con\bin\Debug\burkolo_con.exe
 D:\C#\CSharp\burkolás\burkolo_con\bin\Debug\burkolo_con.pdb
 D:\C#\CSharp\burkolás\burkolo_con\obj\Debug\burkolo_con.exe
 D:\C#\CSharp\burkolás\burkolo_con\obj\Debug\burkolo_con.pdb
+D:\C#\CSharp\Burkolás\burkolo_con\obj\Debug\burkolo_con.exe.config
