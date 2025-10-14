@@ -108,9 +108,9 @@ namespace burkolo_con
             foreach (helyiség h in placelist)
             {
                 Console.WriteLine($"Név: {h.Name}, Terület: {h.Area()} m2, Kerület: {h.Perimeter()}");
-                Console.WriteLine($"Helyiségek száma: {helyiség.counter}");
-                Console.WriteLine($"A szobák összterülete: {helyiség.TotalArea}m2");
             }
+            Console.WriteLine($"Helyiségek száma: {helyiség.counter}");
+            Console.WriteLine($"A szobák összterülete: {helyiség.TotalArea}m2");
         }
     }
 }

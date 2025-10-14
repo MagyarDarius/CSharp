@@ -13,7 +13,7 @@ namespace burkolo_con
             var PlaceList = helyiség.DataLoader();
             helyiség.SaveToFile(PlaceList);
             var LoadedPlaceList = helyiség.LoadFromFile();
-            helyiség.HelyisegLister(PlaceList);
+            helyiség.HelyisegLister(LoadedPlaceList);
             Console.ReadKey();
         }
 
