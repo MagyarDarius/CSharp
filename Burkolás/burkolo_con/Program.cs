@@ -1,21 +1,20 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace burkolo_con
 {
     internal class Program
     {
         static void Main(string[] args)
-        { 
-            var PlaceList = helyiség.DataLoader();
-            helyiség.SaveToFile(PlaceList);
-            var LoadedPlaceList = helyiség.LoadFromFile();
-            helyiség.HelyisegLister(LoadedPlaceList);
+        {
+            Console.OutputEncoding = System.Text.Encoding.UTF8;
+            helyiség.Converter("places.csv", "festo.csv");
+            var placeList = helyiség.DataLoader();
+            helyiség.SaveToFile(placeList);
+            List<helyiség> loadedPlaceList = helyiség.LoadFromFile("places.csv");
+            helyiség.HelyisegLister(loadedPlaceList);
+
             Console.ReadKey();
         }
-
     }
 }
