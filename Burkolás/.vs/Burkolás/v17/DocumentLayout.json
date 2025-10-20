@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "D:\\C#\\CSharp\\Burkol\u00E1s\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A00E2709-A842-47FF-995A-A7C744DD76A7}|burkolo_con\\burkolo_con.csproj|D:\\C#\\CSharp\\Burkol\u00E1s\\burkolo_con\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A00E2709-A842-47FF-995A-A7C744DD76A7}|burkolo_con\\burkolo_con.csproj|d:\\c#\\csharp\\burkol\u00E1s\\burkolo_con\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A00E2709-A842-47FF-995A-A7C744DD76A7}|burkolo_con\\burkolo_con.csproj|solutionrelative:burkolo_con\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A00E2709-A842-47FF-995A-A7C744DD76A7}|burkolo_con\\burkolo_con.csproj|d:\\c#\\csharp\\burkol\u00E1s\\burkolo_con\\helyis\u00E9g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A00E2709-A842-47FF-995A-A7C744DD76A7}|burkolo_con\\burkolo_con.csproj|D:\\C#\\CSharp\\Burkol\u00E1s\\burkolo_con\\helyis\u00E9g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A00E2709-A842-47FF-995A-A7C744DD76A7}|burkolo_con\\burkolo_con.csproj|solutionrelative:burkolo_con\\helyis\u00E9g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "burkolo_con\\Program.cs",
               "ToolTip": "D:\\C#\\CSharp\\Burkol\u00E1s\\burkolo_con\\Program.cs",
               "RelativeToolTip": "burkolo_con\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-29T10:20:15.503Z",
               "EditorCaption": ""
@@ -41,7 +41,7 @@
               "RelativeDocumentMoniker": "burkolo_con\\helyis\u00E9g.cs",
               "ToolTip": "D:\\C#\\CSharp\\Burkol\u00E1s\\burkolo_con\\helyis\u00E9g.cs",
               "RelativeToolTip": "burkolo_con\\helyis\u00E9g.cs",
-              "ViewState": "AgIAAKQAAAAAAAAAAAAqwLkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAawCgAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-29T10:24:24.987Z",
               "EditorCaption": ""

@@ -34,9 +34,15 @@ namespace burkolo_con
             this.Height = height;
         }
 
-        public double Area() => Length * Width;
+        public double FloorArea() => Length * Width;
 
         public double Perimeter() => 2 * (Length + Width);
+
+        public double NeedsToBePaintedWall()
+        {
+            return 2*(this.Width*this.Height) + 2*(this.Length*this.Height);
+        }
+        public double CeilingArea() => this.Length * this.Width;
 
         public static double AreaStatic(double a, double b) => a * b;
 
