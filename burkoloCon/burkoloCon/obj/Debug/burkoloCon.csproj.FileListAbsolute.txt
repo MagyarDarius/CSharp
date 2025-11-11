@@ -1,0 +1,8 @@
+C:\Users\Zoli\source\repos\burkoloCon\burkoloCon\bin\Debug\burkoloCon.exe.config
+C:\Users\Zoli\source\repos\burkoloCon\burkoloCon\bin\Debug\burkoloCon.exe
+C:\Users\Zoli\source\repos\burkoloCon\burkoloCon\bin\Debug\burkoloCon.pdb
+C:\Users\Zoli\source\repos\burkoloCon\burkoloCon\obj\Debug\burkoloCon.csproj.AssemblyReference.cache
+C:\Users\Zoli\source\repos\burkoloCon\burkoloCon\obj\Debug\burkoloCon.csproj.CoreCompileInputs.cache
+C:\Users\Zoli\source\repos\burkoloCon\burkoloCon\obj\Debug\burkoloCon.exe
+C:\Users\Zoli\source\repos\burkoloCon\burkoloCon\obj\Debug\burkoloCon.pdb
+C:\Users\Zoli\source\repos\burkoloCon\burkoloCon\obj\Debug\burkoloCon.exe.config
