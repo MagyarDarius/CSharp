@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\CSharp\\vizsga\\szallasok\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F69345A1-4BAB-40A4-90F3-CEE3E0C69392}|szallas\\szallas.csproj|D:\\C#\\CSharp\\vizsga\\szallasok\\szallas\\szallas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F69345A1-4BAB-40A4-90F3-CEE3E0C69392}|szallas\\szallas.csproj|solutionrelative:szallas\\szallas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE517225-F3FA-476D-9458-14879CA7DBEE}|szallascon\\szallascon.csproj|d:\\c#\\csharp\\vizsga\\szallasok\\szallascon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE517225-F3FA-476D-9458-14879CA7DBEE}|szallascon\\szallascon.csproj|solutionrelative:szallascon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "szallas.cs",
+              "DocumentMoniker": "D:\\C#\\CSharp\\vizsga\\szallasok\\szallas\\szallas.cs",
+              "RelativeDocumentMoniker": "szallas\\szallas.cs",
+              "ToolTip": "D:\\C#\\CSharp\\vizsga\\szallasok\\szallas\\szallas.cs",
+              "RelativeToolTip": "szallas\\szallas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T07:15:18.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\CSharp\\vizsga\\szallasok\\szallascon\\Program.cs",
+              "RelativeDocumentMoniker": "szallascon\\Program.cs",
+              "ToolTip": "D:\\C#\\CSharp\\vizsga\\szallasok\\szallascon\\Program.cs",
+              "RelativeToolTip": "szallascon\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T06:54:49.73Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

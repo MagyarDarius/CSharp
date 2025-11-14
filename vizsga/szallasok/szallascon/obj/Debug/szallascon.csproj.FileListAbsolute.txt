@@ -1,0 +1,10 @@
+D:\C#\CSharp\vizsga\szallasok\szallascon\bin\Debug\szallascon.exe.config
+D:\C#\CSharp\vizsga\szallasok\szallascon\bin\Debug\szallascon.exe
+D:\C#\CSharp\vizsga\szallasok\szallascon\bin\Debug\szallascon.pdb
+D:\C#\CSharp\vizsga\szallasok\szallascon\bin\Debug\szallas.dll
+D:\C#\CSharp\vizsga\szallasok\szallascon\bin\Debug\szallas.pdb
+D:\C#\CSharp\vizsga\szallasok\szallascon\obj\Debug\szallascon.csproj.AssemblyReference.cache
+D:\C#\CSharp\vizsga\szallasok\szallascon\obj\Debug\szallascon.csproj.CoreCompileInputs.cache
+D:\C#\CSharp\vizsga\szallasok\szallascon\obj\Debug\szallascon.csproj.Up2Date
+D:\C#\CSharp\vizsga\szallasok\szallascon\obj\Debug\szallascon.exe
+D:\C#\CSharp\vizsga\szallasok\szallascon\obj\Debug\szallascon.pdb

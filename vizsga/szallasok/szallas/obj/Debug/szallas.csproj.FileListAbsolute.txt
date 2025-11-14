@@ -1,0 +1,6 @@
+D:\C#\CSharp\vizsga\szallasok\szallas\bin\Debug\szallas.dll
+D:\C#\CSharp\vizsga\szallasok\szallas\bin\Debug\szallas.pdb
+D:\C#\CSharp\vizsga\szallasok\szallas\obj\Debug\szallas.csproj.AssemblyReference.cache
+D:\C#\CSharp\vizsga\szallasok\szallas\obj\Debug\szallas.csproj.CoreCompileInputs.cache
+D:\C#\CSharp\vizsga\szallasok\szallas\obj\Debug\szallas.dll
+D:\C#\CSharp\vizsga\szallasok\szallas\obj\Debug\szallas.pdb
