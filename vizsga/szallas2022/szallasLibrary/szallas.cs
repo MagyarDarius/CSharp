@@ -19,7 +19,11 @@ namespace szallasLibrary
         public string UzemeltetoTelefonszama { get; private set; }
         public bool Statusz { get; private set; }
         public string TevekenysegTipusa { get; private set; }
-        public static List<szallas> SzallasokListaja { get; private set; }
+        public static List<szallas> SzallasokListaja = new List<szallas>();
+        public static int szallasdarab { get; private set; } = 0;
+        public static int aktívSzallasokSzama { get; private set; } = 0;
+        public static int aktívAgyszam { get; private set; } = 0;
+
         public szallas(string sor)
         {
             string[] db=sor.Split(';');
@@ -33,6 +37,12 @@ namespace szallasLibrary
             if (db[7]=="Aktív") this.Statusz = true;
             else this.Statusz = false;
             this.TevekenysegTipusa = db[8];
+            szallasdarab++;
+            if (this.Statusz == true)
+            {
+                aktívSzallasokSzama++;
+                aktívAgyszam += this.Agyszam;
+            }
         }
 
         public static List<szallas> FileBetoltes(string filename)
@@ -44,14 +54,17 @@ namespace szallasLibrary
                 while (!sr.EndOfStream)
                 {
                     var ujObjektum = new szallas(sr.ReadLine());
+                    SzallasokListaja.Add(ujObjektum);
                 }
                 sr.Close();
             }
-            catch
+            catch(Exception ex) 
             {
-
+                Console.WriteLine("hiba a file betöltése során" + ex.Message);
             }
             return SzallasokListaja;
         }
+        
+
     }
 }

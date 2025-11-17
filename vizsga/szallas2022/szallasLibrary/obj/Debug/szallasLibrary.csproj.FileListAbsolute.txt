@@ -1,0 +1,6 @@
+D:\C#\CSharp\vizsga\szallas2022\szallasLibrary\bin\Debug\szallasLibrary.dll
+D:\C#\CSharp\vizsga\szallas2022\szallasLibrary\bin\Debug\szallasLibrary.pdb
+D:\C#\CSharp\vizsga\szallas2022\szallasLibrary\obj\Debug\szallasLibrary.csproj.AssemblyReference.cache
+D:\C#\CSharp\vizsga\szallas2022\szallasLibrary\obj\Debug\szallasLibrary.csproj.CoreCompileInputs.cache
+D:\C#\CSharp\vizsga\szallas2022\szallasLibrary\obj\Debug\szallasLibrary.dll
+D:\C#\CSharp\vizsga\szallas2022\szallasLibrary\obj\Debug\szallasLibrary.pdb
