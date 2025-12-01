@@ -1,0 +1,26 @@
+Hozzon létre konzolos alkalmazást síkidomok adatainak kezelésére. Egyelőre kör és téglalap adatokat kezelünk a programmal.
+
+Solution: sikidomok
+
+Projekt:
+
+-sikidomokCon
+
+-sikidomok Library
+
+Osztályok:
+
+-Kor
+
+-Teglalap
+
+
+Az osztályok a jövőben grafikus alkalmazásból is lehessenek elérhetőek és felhasználhatóak.
+
+
+A konzolos alkalmazás segítségével legyen lehetősége a felhasználónak objektumok létrehozására.
+
+Az elkészített objektumok kerületét és területét, illetve az összesített kerület és terület adatokat jelenítse meg a képernyőn.
+
+
+Ügyeljen a tiszta kód és az OOP alapelvek alkalmazására!

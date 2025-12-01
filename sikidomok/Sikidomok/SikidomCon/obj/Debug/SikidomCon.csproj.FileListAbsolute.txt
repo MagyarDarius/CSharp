@@ -1,0 +1,11 @@
+D:\C#\CSharp\sikidomok\Sikidomok\SikidomCon\bin\Debug\SikidomCon.exe.config
+D:\C#\CSharp\sikidomok\Sikidomok\SikidomCon\bin\Debug\SikidomCon.exe
+D:\C#\CSharp\sikidomok\Sikidomok\SikidomCon\bin\Debug\SikidomCon.pdb
+D:\C#\CSharp\sikidomok\Sikidomok\SikidomCon\bin\Debug\SikidomClassLibrary.dll
+D:\C#\CSharp\sikidomok\Sikidomok\SikidomCon\bin\Debug\SikidomClassLibrary.pdb
+D:\C#\CSharp\sikidomok\Sikidomok\SikidomCon\obj\Debug\SikidomCon.csproj.AssemblyReference.cache
+D:\C#\CSharp\sikidomok\Sikidomok\SikidomCon\obj\Debug\SikidomCon.csproj.CoreCompileInputs.cache
+D:\C#\CSharp\sikidomok\Sikidomok\SikidomCon\obj\Debug\SikidomCon.csproj.Up2Date
+D:\C#\CSharp\sikidomok\Sikidomok\SikidomCon\obj\Debug\SikidomCon.exe
+D:\C#\CSharp\sikidomok\Sikidomok\SikidomCon\obj\Debug\SikidomCon.pdb
+D:\C#\CSharp\sikidomok\Sikidomok\SikidomCon\obj\Debug\SikidomCon.exe.config

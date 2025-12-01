@@ -1,0 +1,11 @@
+C:\Users\PancakeLQ\Documents\GitHub\c-sharp\Sikidomok\SikidomokCon\bin\Debug\SikidomokCon.exe.config
+C:\Users\PancakeLQ\Documents\GitHub\c-sharp\Sikidomok\SikidomokCon\bin\Debug\SikidomokCon.exe
+C:\Users\PancakeLQ\Documents\GitHub\c-sharp\Sikidomok\SikidomokCon\bin\Debug\SikidomokCon.pdb
+C:\Users\PancakeLQ\Documents\GitHub\c-sharp\Sikidomok\SikidomokCon\bin\Debug\SikidomLibrary.dll
+C:\Users\PancakeLQ\Documents\GitHub\c-sharp\Sikidomok\SikidomokCon\bin\Debug\SikidomLibrary.pdb
+C:\Users\PancakeLQ\Documents\GitHub\c-sharp\Sikidomok\SikidomokCon\obj\Debug\SikidomokCon.csproj.AssemblyReference.cache
+C:\Users\PancakeLQ\Documents\GitHub\c-sharp\Sikidomok\SikidomokCon\obj\Debug\SikidomokCon.csproj.CoreCompileInputs.cache
+C:\Users\PancakeLQ\Documents\GitHub\c-sharp\Sikidomok\SikidomokCon\obj\Debug\Sikidomo.209681D3.Up2Date
+C:\Users\PancakeLQ\Documents\GitHub\c-sharp\Sikidomok\SikidomokCon\obj\Debug\SikidomokCon.exe
+C:\Users\PancakeLQ\Documents\GitHub\c-sharp\Sikidomok\SikidomokCon\obj\Debug\SikidomokCon.pdb
+C:\Users\PancakeLQ\Documents\GitHub\c-sharp\Sikidomok\SikidomokCon\obj\Debug\SikidomokCon.exe.config
