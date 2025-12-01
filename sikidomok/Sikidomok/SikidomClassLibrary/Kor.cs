@@ -12,7 +12,10 @@ namespace SikidomClassLibrary
         public static List<Kor> KorokListaja = new List<Kor>();
         public static double OsszesKerulet { get; private set; } = 0;
         public static double OsszesTerulet { get; private set; } = 0;
-
+        /// <summary>
+        /// Kőr objektumot hoz létre
+        /// </summary>
+        /// <param name="sugar">A kör sugara, double tipus, pozítiv szám</param>
         public Kor(double sugar)
         {
             this.sugar = sugar;
