@@ -1,0 +1,6 @@
+D:\C#\CSharp\Kor\korok\kor\bin\Debug\kor.dll
+D:\C#\CSharp\Kor\korok\kor\bin\Debug\kor.pdb
+D:\C#\CSharp\Kor\korok\kor\obj\Debug\KorClassLibrary.csproj.AssemblyReference.cache
+D:\C#\CSharp\Kor\korok\kor\obj\Debug\KorClassLibrary.csproj.CoreCompileInputs.cache
+D:\C#\CSharp\Kor\korok\kor\obj\Debug\kor.dll
+D:\C#\CSharp\Kor\korok\kor\obj\Debug\kor.pdb

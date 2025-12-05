@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "korCon", "korCon\korCon.csproj", "{E3B8E22E-B849-4FEA-8AEA-42AAD149C6FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KorClassLibrary", "kor\KorClassLibrary.csproj", "{6FF259D1-F0BF-4FE1-8F91-6B5A32A98892}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3B8E22E-B849-4FEA-8AEA-42AAD149C6FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3B8E22E-B849-4FEA-8AEA-42AAD149C6FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3B8E22E-B849-4FEA-8AEA-42AAD149C6FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3B8E22E-B849-4FEA-8AEA-42AAD149C6FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FF259D1-F0BF-4FE1-8F91-6B5A32A98892}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FF259D1-F0BF-4FE1-8F91-6B5A32A98892}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FF259D1-F0BF-4FE1-8F91-6B5A32A98892}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FF259D1-F0BF-4FE1-8F91-6B5A32A98892}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {997D7BB9-2859-40C2-974E-2BE124615384}
+	EndGlobalSection
+EndGlobal

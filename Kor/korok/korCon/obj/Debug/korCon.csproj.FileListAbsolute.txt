@@ -1,0 +1,11 @@
+D:\C#\CSharp\Kor\korok\korCon\bin\Debug\korCon.exe.config
+D:\C#\CSharp\Kor\korok\korCon\bin\Debug\korCon.exe
+D:\C#\CSharp\Kor\korok\korCon\bin\Debug\korCon.pdb
+D:\C#\CSharp\Kor\korok\korCon\bin\Debug\kor.dll
+D:\C#\CSharp\Kor\korok\korCon\bin\Debug\kor.pdb
+D:\C#\CSharp\Kor\korok\korCon\obj\Debug\korCon.csproj.AssemblyReference.cache
+D:\C#\CSharp\Kor\korok\korCon\obj\Debug\korCon.csproj.CoreCompileInputs.cache
+D:\C#\CSharp\Kor\korok\korCon\obj\Debug\korCon.csproj.Up2Date
+D:\C#\CSharp\Kor\korok\korCon\obj\Debug\korCon.exe
+D:\C#\CSharp\Kor\korok\korCon\obj\Debug\korCon.pdb
+D:\C#\CSharp\Kor\korok\korCon\obj\Debug\korCon.exe.config
