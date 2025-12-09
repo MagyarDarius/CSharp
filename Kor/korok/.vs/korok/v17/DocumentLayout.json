@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\C#\\CSharp\\Kor\\korok\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6FF259D1-F0BF-4FE1-8F91-6B5A32A98892}|kor\\kor.csproj|d:\\c#\\csharp\\kor\\korok\\kor\\kor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FF259D1-F0BF-4FE1-8F91-6B5A32A98892}|kor\\kor.csproj|solutionrelative:kor\\kor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E3B8E22E-B849-4FEA-8AEA-42AAD149C6FB}|korCon\\korCon.csproj|D:\\C#\\CSharp\\Kor\\korok\\korcon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3B8E22E-B849-4FEA-8AEA-42AAD149C6FB}|korCon\\korCon.csproj|solutionrelative:korcon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3B8E22E-B849-4FEA-8AEA-42AAD149C6FB}|korCon\\korCon.csproj|d:\\c#\\csharp\\kor\\korok\\korcon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3B8E22E-B849-4FEA-8AEA-42AAD149C6FB}|korCon\\korCon.csproj|solutionrelative:korcon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6FF259D1-F0BF-4FE1-8F91-6B5A32A98892}|kor\\KorClassLibrary.csproj|d:\\c#\\csharp\\kor\\korok\\kor\\kor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FF259D1-F0BF-4FE1-8F91-6B5A32A98892}|kor\\KorClassLibrary.csproj|solutionrelative:kor\\kor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,17 +18,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Kor.cs",
               "DocumentMoniker": "D:\\C#\\CSharp\\Kor\\korok\\kor\\Kor.cs",
               "RelativeDocumentMoniker": "kor\\Kor.cs",
               "ToolTip": "D:\\C#\\CSharp\\Kor\\korok\\kor\\Kor.cs",
               "RelativeToolTip": "kor\\Kor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-05T06:49:42.553Z",
               "IsPinned": true,
@@ -36,13 +36,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\C#\\CSharp\\Kor\\korok\\korCon\\Program.cs",
               "RelativeDocumentMoniker": "korCon\\Program.cs",
               "ToolTip": "D:\\C#\\CSharp\\Kor\\korok\\korCon\\Program.cs",
               "RelativeToolTip": "korCon\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-05T06:49:21.912Z",
               "IsPinned": true,

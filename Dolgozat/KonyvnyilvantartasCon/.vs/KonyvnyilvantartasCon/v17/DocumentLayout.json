@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\CSharp\\Dolgozat\\KonyvnyilvantartasCon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0EDEC8F3-D585-44D9-99E2-F47E443869FA}|Konyvnyilvantartas\\Konyvnyilvantartas.csproj|D:\\C#\\CSharp\\Dolgozat\\KonyvnyilvantartasCon\\konyvnyilvantartas\\konyvnyilvantartas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EDEC8F3-D585-44D9-99E2-F47E443869FA}|Konyvnyilvantartas\\Konyvnyilvantartas.csproj|solutionrelative:konyvnyilvantartas\\konyvnyilvantartas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A23A332-E6B1-41E1-9D3A-4204C4B78D23}|Konyv\\Konyv.csproj|d:\\c#\\csharp\\dolgozat\\konyvnyilvantartascon\\konyv\\konyv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A23A332-E6B1-41E1-9D3A-4204C4B78D23}|Konyv\\Konyv.csproj|solutionrelative:konyv\\konyv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Konyv.cs",
+              "DocumentMoniker": "D:\\C#\\CSharp\\Dolgozat\\KonyvnyilvantartasCon\\Konyv\\Konyv.cs",
+              "RelativeDocumentMoniker": "Konyv\\Konyv.cs",
+              "ToolTip": "D:\\C#\\CSharp\\Dolgozat\\KonyvnyilvantartasCon\\Konyv\\Konyv.cs",
+              "RelativeToolTip": "Konyv\\Konyv.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T07:16:03.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Konyvnyilvantartas.cs",
+              "DocumentMoniker": "D:\\C#\\CSharp\\Dolgozat\\KonyvnyilvantartasCon\\Konyvnyilvantartas\\Konyvnyilvantartas.cs",
+              "RelativeDocumentMoniker": "Konyvnyilvantartas\\Konyvnyilvantartas.cs",
+              "ToolTip": "D:\\C#\\CSharp\\Dolgozat\\KonyvnyilvantartasCon\\Konyvnyilvantartas\\Konyvnyilvantartas.cs",
+              "RelativeToolTip": "Konyvnyilvantartas\\Konyvnyilvantartas.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwB0AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T07:14:19.081Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+D:\C#\CSharp\Dolgozat\KonyvnyilvantartasCon\Konyvnyilvantartas\bin\Debug\Konyvnyilvantartas.exe.config
+D:\C#\CSharp\Dolgozat\KonyvnyilvantartasCon\Konyvnyilvantartas\bin\Debug\Konyvnyilvantartas.exe
+D:\C#\CSharp\Dolgozat\KonyvnyilvantartasCon\Konyvnyilvantartas\bin\Debug\Konyvnyilvantartas.pdb
+D:\C#\CSharp\Dolgozat\KonyvnyilvantartasCon\Konyvnyilvantartas\bin\Debug\Konyv.dll
+D:\C#\CSharp\Dolgozat\KonyvnyilvantartasCon\Konyvnyilvantartas\bin\Debug\Konyv.pdb
+D:\C#\CSharp\Dolgozat\KonyvnyilvantartasCon\Konyvnyilvantartas\obj\Debug\Konyvnyilvantartas.csproj.AssemblyReference.cache
+D:\C#\CSharp\Dolgozat\KonyvnyilvantartasCon\Konyvnyilvantartas\obj\Debug\Konyvnyilvantartas.csproj.CoreCompileInputs.cache
+D:\C#\CSharp\Dolgozat\KonyvnyilvantartasCon\Konyvnyilvantartas\obj\Debug\Konyvnyi.A5FF1207.Up2Date
+D:\C#\CSharp\Dolgozat\KonyvnyilvantartasCon\Konyvnyilvantartas\obj\Debug\Konyvnyilvantartas.exe
+D:\C#\CSharp\Dolgozat\KonyvnyilvantartasCon\Konyvnyilvantartas\obj\Debug\Konyvnyilvantartas.pdb
+D:\C#\CSharp\Dolgozat\KonyvnyilvantartasCon\Konyvnyilvantartas\obj\Debug\Konyvnyilvantartas.exe.config

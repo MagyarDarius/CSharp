@@ -1,0 +1,6 @@
+D:\C#\CSharp\Dolgozat\KonyvnyilvantartasCon\Konyv\bin\Debug\Konyv.dll
+D:\C#\CSharp\Dolgozat\KonyvnyilvantartasCon\Konyv\bin\Debug\Konyv.pdb
+D:\C#\CSharp\Dolgozat\KonyvnyilvantartasCon\Konyv\obj\Debug\Konyv.csproj.AssemblyReference.cache
+D:\C#\CSharp\Dolgozat\KonyvnyilvantartasCon\Konyv\obj\Debug\Konyv.csproj.CoreCompileInputs.cache
+D:\C#\CSharp\Dolgozat\KonyvnyilvantartasCon\Konyv\obj\Debug\Konyv.dll
+D:\C#\CSharp\Dolgozat\KonyvnyilvantartasCon\Konyv\obj\Debug\Konyv.pdb
