@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "D:\\C#\\CSharp\\Dolgozat\\KonyvnyilvantartasCon\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0EDEC8F3-D585-44D9-99E2-F47E443869FA}|Konyvnyilvantartas\\Konyvnyilvantartas.csproj|D:\\C#\\CSharp\\Dolgozat\\KonyvnyilvantartasCon\\konyvnyilvantartas\\konyvnyilvantartas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0EDEC8F3-D585-44D9-99E2-F47E443869FA}|Konyvnyilvantartas\\Konyvnyilvantartas.csproj|d:\\c#\\csharp\\dolgozat\\konyvnyilvantartascon\\konyvnyilvantartas\\konyvnyilvantartas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0EDEC8F3-D585-44D9-99E2-F47E443869FA}|Konyvnyilvantartas\\Konyvnyilvantartas.csproj|solutionrelative:konyvnyilvantartas\\konyvnyilvantartas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A23A332-E6B1-41E1-9D3A-4204C4B78D23}|Konyv\\Konyv.csproj|d:\\c#\\csharp\\dolgozat\\konyvnyilvantartascon\\konyv\\konyv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8A23A332-E6B1-41E1-9D3A-4204C4B78D23}|Konyv\\Konyv.csproj|D:\\C#\\CSharp\\Dolgozat\\KonyvnyilvantartasCon\\konyv\\konyv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A23A332-E6B1-41E1-9D3A-4204C4B78D23}|Konyv\\Konyv.csproj|solutionrelative:konyv\\konyv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "Konyv\\Konyv.cs",
               "ToolTip": "D:\\C#\\CSharp\\Dolgozat\\KonyvnyilvantartasCon\\Konyv\\Konyv.cs",
               "RelativeToolTip": "Konyv\\Konyv.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-08T07:16:03.91Z",
               "EditorCaption": ""
@@ -41,7 +41,7 @@
               "RelativeDocumentMoniker": "Konyvnyilvantartas\\Konyvnyilvantartas.cs",
               "ToolTip": "D:\\C#\\CSharp\\Dolgozat\\KonyvnyilvantartasCon\\Konyvnyilvantartas\\Konyvnyilvantartas.cs",
               "RelativeToolTip": "Konyvnyilvantartas\\Konyvnyilvantartas.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAwwB0AAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA9wB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-08T07:14:19.081Z",
               "EditorCaption": ""
