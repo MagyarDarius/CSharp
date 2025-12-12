@@ -1,0 +1,11 @@
+D:\C#\CSharp\Pontszámok\DolgozatPontszamokCon\DolgozatPontszamok\bin\Debug\DolgozatPontszamok.exe.config
+D:\C#\CSharp\Pontszámok\DolgozatPontszamokCon\DolgozatPontszamok\bin\Debug\DolgozatPontszamok.exe
+D:\C#\CSharp\Pontszámok\DolgozatPontszamokCon\DolgozatPontszamok\bin\Debug\DolgozatPontszamok.pdb
+D:\C#\CSharp\Pontszámok\DolgozatPontszamokCon\DolgozatPontszamok\bin\Debug\Tanulok.dll
+D:\C#\CSharp\Pontszámok\DolgozatPontszamokCon\DolgozatPontszamok\bin\Debug\Tanulok.pdb
+D:\C#\CSharp\Pontszámok\DolgozatPontszamokCon\DolgozatPontszamok\obj\Debug\DolgozatPontszamok.csproj.AssemblyReference.cache
+D:\C#\CSharp\Pontszámok\DolgozatPontszamokCon\DolgozatPontszamok\obj\Debug\DolgozatPontszamok.csproj.CoreCompileInputs.cache
+D:\C#\CSharp\Pontszámok\DolgozatPontszamokCon\DolgozatPontszamok\obj\Debug\Dolgozat.8615F7ED.Up2Date
+D:\C#\CSharp\Pontszámok\DolgozatPontszamokCon\DolgozatPontszamok\obj\Debug\DolgozatPontszamok.exe
+D:\C#\CSharp\Pontszámok\DolgozatPontszamokCon\DolgozatPontszamok\obj\Debug\DolgozatPontszamok.pdb
+D:\C#\CSharp\Pontszámok\DolgozatPontszamokCon\DolgozatPontszamok\obj\Debug\DolgozatPontszamok.exe.config

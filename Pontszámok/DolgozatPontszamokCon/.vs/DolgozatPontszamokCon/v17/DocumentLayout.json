@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\CSharp\\Pontsz\u00E1mok\\DolgozatPontszamokCon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A627FDE8-AC8E-4247-8B02-5FE096F3744E}|Tanulok\\Tanulok.csproj|d:\\c#\\csharp\\pontsz\u00E1mok\\dolgozatpontszamokcon\\tanulok\\tanulok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A627FDE8-AC8E-4247-8B02-5FE096F3744E}|Tanulok\\Tanulok.csproj|solutionrelative:tanulok\\tanulok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C07F25-DB71-4462-8EA9-9B4B62BBF814}|DolgozatPontszamok\\DolgozatPontszamok.csproj|d:\\c#\\csharp\\pontsz\u00E1mok\\dolgozatpontszamokcon\\dolgozatpontszamok\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C07F25-DB71-4462-8EA9-9B4B62BBF814}|DolgozatPontszamok\\DolgozatPontszamok.csproj|solutionrelative:dolgozatpontszamok\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tanulok.cs",
+              "DocumentMoniker": "D:\\C#\\CSharp\\Pontsz\u00E1mok\\DolgozatPontszamokCon\\Tanulok\\Tanulok.cs",
+              "RelativeDocumentMoniker": "Tanulok\\Tanulok.cs",
+              "ToolTip": "D:\\C#\\CSharp\\Pontsz\u00E1mok\\DolgozatPontszamokCon\\Tanulok\\Tanulok.cs",
+              "RelativeToolTip": "Tanulok\\Tanulok.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T06:50:08.199Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\CSharp\\Pontsz\u00E1mok\\DolgozatPontszamokCon\\DolgozatPontszamok\\Program.cs",
+              "RelativeDocumentMoniker": "DolgozatPontszamok\\Program.cs",
+              "ToolTip": "D:\\C#\\CSharp\\Pontsz\u00E1mok\\DolgozatPontszamokCon\\DolgozatPontszamok\\Program.cs",
+              "RelativeToolTip": "DolgozatPontszamok\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T06:49:38.955Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

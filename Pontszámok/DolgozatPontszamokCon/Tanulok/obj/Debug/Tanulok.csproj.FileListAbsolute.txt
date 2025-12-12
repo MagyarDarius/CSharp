@@ -1,0 +1,6 @@
+D:\C#\CSharp\Pontszámok\DolgozatPontszamokCon\Tanulok\bin\Debug\Tanulok.dll
+D:\C#\CSharp\Pontszámok\DolgozatPontszamokCon\Tanulok\bin\Debug\Tanulok.pdb
+D:\C#\CSharp\Pontszámok\DolgozatPontszamokCon\Tanulok\obj\Debug\Tanulok.csproj.AssemblyReference.cache
+D:\C#\CSharp\Pontszámok\DolgozatPontszamokCon\Tanulok\obj\Debug\Tanulok.csproj.CoreCompileInputs.cache
+D:\C#\CSharp\Pontszámok\DolgozatPontszamokCon\Tanulok\obj\Debug\Tanulok.dll
+D:\C#\CSharp\Pontszámok\DolgozatPontszamokCon\Tanulok\obj\Debug\Tanulok.pdb
